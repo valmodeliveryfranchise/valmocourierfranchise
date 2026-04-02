@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://valmocourierfranchise.surge.sh/sitemap.xml
+Sitemap: https://valmodeliveryfranchise.github.io/valmocourierfranchise/sitemap.xml
